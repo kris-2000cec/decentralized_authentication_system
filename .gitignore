@@ -1,0 +1,36 @@
+# Node / JS
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+
+# React
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Solidity / truffle / hardhat artifacts
+artifacts/
+cache/
+build/
+coverage/
+*.keystore
+*.json   # optionally whitelist certain jsons if safe
+
+# Ganache / local blockchain data
+*.db
+local_chain_data/
+keystore/
+
+# Misc
+*.log
+/.secret
+/secrets/

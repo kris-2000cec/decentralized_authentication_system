@@ -1,0 +1,19 @@
+{
+  "name": "decentralized-auth-final",
+  "version": "1.0.0",
+  "description": "Professional Decentralized Authentication System with K-Wallet and MetaMask",
+  "main": "index.js",
+  "scripts": {
+    "wallet": "node wallet/walletServer.js",
+    "auth": "node server/authServer.js"
+  },
+  "keywords": ["blockchain", "authentication", "siwe", "kwallet"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "ethers": "^6.15.0",
+    "siwe": "^3.0.0"
+  }
+}

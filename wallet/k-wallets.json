@@ -1,0 +1,72 @@
+[
+  {
+    "address": "0x65Eb710C47D9630941e5c806749D9198306282ec",
+    "privateKey": "0x65c6b2b20bd53f32203b7e6b010bc92b04f3e171954abca0512bb886c1662fec",
+    "mnemonic": "silver half pink you then unusual exhibit mixture coast shift audit eye",
+    "publicKey": "0x02a8a26995e9527279ce539561787c4e0778f02315b957628130a3ca4543b4be31",
+    "createdAt": "2025-10-20T13:36:39.465Z"
+  },
+  {
+    "address": "0x2dE5B2d4E9328c22687448195C04deF72e11eDC6",
+    "privateKey": "0xcb98079ac23f8170c69490ab3571ad9d8057de16c24ec71337564fce3538d1e8",
+    "mnemonic": "limit estate glare reflect stuff ghost inquiry marble model kangaroo vital alarm",
+    "publicKey": "0x03de718896905a6006f78d461d34b67f08261a614e0b7783d120f7f6fdafa10047",
+    "createdAt": "2025-10-20T13:42:31.434Z"
+  },
+  {
+    "address": "0xaf1129F481D841E08380070f7AFaBb328d4Fc8c6",
+    "privateKey": "0x4c80381ce32fcd2a1941682f2f46b390a6b6114146ebe6cbae29db091cacc61d",
+    "mnemonic": "ten issue chef tower swamp travel expire drop salad repeat breeze census",
+    "publicKey": "0x03740d7baf68adbd4cdba03817b5a08e27fc447a5c50480ece2085c877030a2b40",
+    "createdAt": "2025-10-20T16:39:32.295Z"
+  },
+  {
+    "address": "0x84ab919C9C91619fC89c053E09e647159605A61E",
+    "privateKey": "0x95ee2de25dc1187cd6df512d7b750a5c8c53d007b166b335bdb9ae7d84e10b2b",
+    "mnemonic": "focus relief quote evil rib cable test genuine save february method grant",
+    "publicKey": "0x028528981b1d9f98e4e3a21c626f55964d250164b3f3a1c9dc8a6dbca5d93a2c91",
+    "createdAt": "2025-10-21T17:32:11.803Z"
+  },
+  {
+    "address": "0x0AEF20f036AeD0e1bEF20762958eDe4Ccc2795e6",
+    "privateKey": "0x35068f86a5aa2fee242f57a4ace8c4d954a639d780dcb238303c74f8cc7347f9",
+    "mnemonic": "fatigue frown boil prize pigeon wash vacuum grab course scale ranch solution",
+    "publicKey": "0x02dcf717d6f7b6f16bed9c5c7d948db90758f14e20ff4ae154fd2477eaa201cb95",
+    "createdAt": "2025-10-22T07:11:21.481Z"
+  },
+  {
+    "address": "0xd6FB75A16099bF2a4F55b01bf65b928562778BC0",
+    "privateKey": "0x01dc1111666560650fcf33ab98e11fc7186b7bef3f93d6448ffbe27b1df5695d",
+    "mnemonic": "winner better matter six anger tilt thank camp salmon rebuild please venture",
+    "publicKey": "0x02500ecdf78b9616cea860c6e462fc7c491d75aefa180b1f07901f3fbb83477c8e",
+    "createdAt": "2025-10-22T07:30:32.890Z"
+  },
+  {
+    "address": "0xB4f9EDDA15C52B5468E02A8E59009A56b9A9d6e4",
+    "privateKey": "0x2725e89747337ac33cff97b9bf139a5aa15780e9deb0bf464a55c153e086d38f",
+    "mnemonic": "mango tragic reward under issue term portion coin improve north wheat pledge",
+    "publicKey": "0x039445f533c5ade6ba14062585597dc576237932f1abd8c2574f3f71951f231824",
+    "createdAt": "2025-10-22T10:32:16.782Z"
+  },
+  {
+    "address": "0xa32DA828839931Dd658cF0A7Bf3eA1375Ed6b5ca",
+    "privateKey": "0x2809e12d22aa4e08b69f6f41ded1cbb193b9ecd5923bef0fa4d3ac45eca17ec1",
+    "mnemonic": "language key calm twelve normal minimum crime rice twenty they bus gesture",
+    "publicKey": "0x03be88f089f068362522d382d0ee4793ddb9a51ba52944d4d085f30793fceb1738",
+    "createdAt": "2025-10-22T10:37:02.613Z"
+  },
+  {
+    "address": "0x348270C9B9f14007fe4182F312a930d6C0E5EE7E",
+    "privateKey": "0xfb9b835a11ab9df8b5efd52f1a6838daa4402032beb44aebd01608b121ebe5d0",
+    "mnemonic": "visit calm slim forum poem quick lobster where effort monitor asthma olympic",
+    "publicKey": "0x03567ced97a17034f687d831146ed2d72c126ab46059cf018134cbd35a7380a5e5",
+    "createdAt": "2025-10-22T10:39:41.157Z"
+  },
+  {
+    "address": "0x37e571359906a17518f21eB8C346bcA5C76230ED",
+    "privateKey": "0x0663a74d41277058ba319f16c27eeca083aa7769fb9880c658ec71698a1d4840",
+    "mnemonic": "card cricket run fault picture faith detail typical unlock borrow guilt feed",
+    "publicKey": "0x036ebf7a148ac776e0180658f5baad4f4bb01b4e9e19a1d04059ff62380d417a18",
+    "createdAt": "2025-10-22T10:40:15.144Z"
+  }
+]
